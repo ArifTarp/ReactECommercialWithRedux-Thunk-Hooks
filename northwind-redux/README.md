@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Before Starting
-Please install json-server for fake api.
-npm install -g json-server
-Get directory in api folder. And run command in cmd.
-json-server --watch db.json
+Please install json-server for fake api.<br />
+npm install -g json-server<br />
+Get directory in api folder. And run command in cmd.<br />
+json-server --watch db.json<br />
 Fake api is ready!.
 
 ## Available Scripts
