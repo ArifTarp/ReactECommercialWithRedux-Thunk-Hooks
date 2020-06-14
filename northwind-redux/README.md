@@ -5,7 +5,7 @@ Please install json-server for fake api.<br />
 npm install -g json-server<br />
 Get directory in api folder. And run command in cmd.<br />
 json-server --watch db.json<br />
-Fake api is ready!.
+Fake api is ready!
 
 ## Available Scripts
 
